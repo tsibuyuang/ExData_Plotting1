@@ -112,3 +112,21 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+## Execution
+```R
+> source("plot1.R")
+```
+![](https://github.com/tsibuyuang/ExData_Plotting1/blob/master/plot1.png)
+```R
+> source("plot2.R")
+```
+![](https://github.com/tsibuyuang/ExData_Plotting1/blob/master/plot2.png)
+```R
+> source("plot3.R")
+```
+![](https://github.com/tsibuyuang/ExData_Plotting1/blob/master/plot3.png)
+```R
+> source("plot4.R")
+```
+![](https://github.com/tsibuyuang/ExData_Plotting1/blob/master/plot4.png)
